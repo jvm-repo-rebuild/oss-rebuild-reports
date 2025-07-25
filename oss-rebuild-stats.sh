@@ -27,10 +27,10 @@ $(cat data/$p/*.txt | wc -l | awk '{$1=$1};1') [:recycle: releases](https://gith
 
 See [oss-rebuild usage](https://github.com/google/oss-rebuild#usage) for details on rebuilding or getting [rebuild attestation](https://github.com/google/oss-rebuild/blob/main/docs/builds/Rebuild@v0.1.md)
 
-| package | releases |
-| ------- | -------- |
+| package | releases | latest oss-rebuilt | latest |
+| ------- | -------- | ------------------ | ------ |
 $(while read n a
 do
-  echo "| [$a]($url$a) | $n :recycle: |"
+  echo "| [$a]($url$a) | $n :recycle: | $(grep -h "^$p/$a/" data/$p/*.txt | tail -1 | cut -d / -f 3) | [![latest](https://img.shields.io/$p/v/$a)]($url$a) |"
 done < data/$p.txt)" > $p.md
 done
