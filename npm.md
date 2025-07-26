@@ -1,7 +1,7 @@
 OSS Rebuild Results for npm
 ========
 
-1993 [:recycle: releases](https://github.com/jvm-repo-rebuild/reproducible-central/blob/master/doc/stabilize.md) of 1073 [npm packages](https://www.npmjs.com/package/..)
+1994 [:recycle: releases](https://github.com/jvm-repo-rebuild/reproducible-central/blob/master/doc/stabilize.md) of 1073 [npm packages](https://www.npmjs.com/package/..)
 
 See [oss-rebuild usage](https://github.com/google/oss-rebuild#usage) for details on rebuilding or getting [rebuild attestation](https://github.com/google/oss-rebuild/blob/main/docs/builds/Rebuild@v0.1.md)
 
@@ -706,7 +706,7 @@ See [oss-rebuild usage](https://github.com/google/oss-rebuild#usage) for details
 | [ng-table](https://www.npmjs.com/package/ng-table) | 1 :recycle: | 0.8.3 | [![latest](https://img.shields.io/npm/v/ng-table)](https://www.npmjs.com/package/ng-table) |
 | [ng2-split-pane](https://www.npmjs.com/package/ng2-split-pane) | 1 :recycle: | 1.3.1 | [![latest](https://img.shields.io/npm/v/ng2-split-pane)](https://www.npmjs.com/package/ng2-split-pane) |
 | [ngx-color-picker](https://www.npmjs.com/package/ngx-color-picker) | 1 :recycle: | 8.2.0 | [![latest](https://img.shields.io/npm/v/ngx-color-picker)](https://www.npmjs.com/package/ngx-color-picker) |
-| [nock](https://www.npmjs.com/package/nock) | 8 :recycle: | 15.0.0-beta.4 | [![latest](https://img.shields.io/npm/v/nock)](https://www.npmjs.com/package/nock) |
+| [nock](https://www.npmjs.com/package/nock) | 9 :recycle: | 15.0.0-beta.4 | [![latest](https://img.shields.io/npm/v/nock)](https://www.npmjs.com/package/nock) |
 | [node-cron](https://www.npmjs.com/package/node-cron) | 19 :recycle: | 4.2.0 | [![latest](https://img.shields.io/npm/v/node-cron)](https://www.npmjs.com/package/node-cron) |
 | [node-dir](https://www.npmjs.com/package/node-dir) | 1 :recycle: | 0.1.17 | [![latest](https://img.shields.io/npm/v/node-dir)](https://www.npmjs.com/package/node-dir) |
 | [node-emoji](https://www.npmjs.com/package/node-emoji) | 2 :recycle: | 1.11.0 | [![latest](https://img.shields.io/npm/v/node-emoji)](https://www.npmjs.com/package/node-emoji) |

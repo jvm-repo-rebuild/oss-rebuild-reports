@@ -1,7 +1,7 @@
 OSS Rebuild Results for pypi
 ========
 
-4981 [:recycle: releases](https://github.com/jvm-repo-rebuild/reproducible-central/blob/master/doc/stabilize.md) of 608 [pypi packages](https://pypi.org/project/..)
+4982 [:recycle: releases](https://github.com/jvm-repo-rebuild/reproducible-central/blob/master/doc/stabilize.md) of 608 [pypi packages](https://pypi.org/project/..)
 
 See [oss-rebuild usage](https://github.com/google/oss-rebuild#usage) for details on rebuilding or getting [rebuild attestation](https://github.com/google/oss-rebuild/blob/main/docs/builds/Rebuild@v0.1.md)
 
@@ -509,7 +509,7 @@ See [oss-rebuild usage](https://github.com/google/oss-rebuild#usage) for details
 | [resampy](https://pypi.org/project/resampy) | 2 :recycle: | 0.4.2 | [![latest](https://img.shields.io/pypi/v/resampy)](https://pypi.org/project/resampy) |
 | [resolvelib](https://pypi.org/project/resolvelib) | 3 :recycle: | 1.2.0 | [![latest](https://img.shields.io/pypi/v/resolvelib)](https://pypi.org/project/resolvelib) |
 | [responses](https://pypi.org/project/responses) | 1 :recycle: | 0.18.0 | [![latest](https://img.shields.io/pypi/v/responses)](https://pypi.org/project/responses) |
-| [retrying](https://pypi.org/project/retrying) | 5 :recycle: | 1.4.0 | [![latest](https://img.shields.io/pypi/v/retrying)](https://pypi.org/project/retrying) |
+| [retrying](https://pypi.org/project/retrying) | 6 :recycle: | 1.4.1 | [![latest](https://img.shields.io/pypi/v/retrying)](https://pypi.org/project/retrying) |
 | [rfc3339-validator](https://pypi.org/project/rfc3339-validator) | 2 :recycle: | 0.1.4 | [![latest](https://img.shields.io/pypi/v/rfc3339-validator)](https://pypi.org/project/rfc3339-validator) |
 | [rich-argparse](https://pypi.org/project/rich-argparse) | 3 :recycle: | 1.7.1 | [![latest](https://img.shields.io/pypi/v/rich-argparse)](https://pypi.org/project/rich-argparse) |
 | [rich](https://pypi.org/project/rich) | 85 :recycle: | 6.2.0 | [![latest](https://img.shields.io/pypi/v/rich)](https://pypi.org/project/rich) |
