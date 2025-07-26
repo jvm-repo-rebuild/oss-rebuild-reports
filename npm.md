@@ -1,7 +1,7 @@
 OSS Rebuild Results for npm
 ========
 
-1993 [:recycle: releases](https://github.com/jvm-repo-rebuild/reproducible-central/blob/master/doc/stabilize.md) of     1073 [npm packages](https://www.npmjs.com/package/..)
+1993 [:recycle: releases](https://github.com/jvm-repo-rebuild/reproducible-central/blob/master/doc/stabilize.md) of 1073 [npm packages](https://www.npmjs.com/package/..)
 
 See [oss-rebuild usage](https://github.com/google/oss-rebuild#usage) for details on rebuilding or getting [rebuild attestation](https://github.com/google/oss-rebuild/blob/main/docs/builds/Rebuild@v0.1.md)
 

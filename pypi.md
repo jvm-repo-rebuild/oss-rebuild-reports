@@ -1,7 +1,7 @@
 OSS Rebuild Results for pypi
 ========
 
-4981 [:recycle: releases](https://github.com/jvm-repo-rebuild/reproducible-central/blob/master/doc/stabilize.md) of      608 [pypi packages](https://pypi.org/project/..)
+4981 [:recycle: releases](https://github.com/jvm-repo-rebuild/reproducible-central/blob/master/doc/stabilize.md) of 608 [pypi packages](https://pypi.org/project/..)
 
 See [oss-rebuild usage](https://github.com/google/oss-rebuild#usage) for details on rebuilding or getting [rebuild attestation](https://github.com/google/oss-rebuild/blob/main/docs/builds/Rebuild@v0.1.md)
 
