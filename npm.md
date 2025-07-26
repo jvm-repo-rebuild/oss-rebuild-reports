@@ -1,7 +1,7 @@
 OSS Rebuild Results for npm
 ========
 
-1870 [:recycle: releases](https://github.com/jvm-repo-rebuild/reproducible-central/blob/master/doc/stabilize.md) of      968 [npm packages](https://www.npmjs.com/package/..)
+1872 [:recycle: releases](https://github.com/jvm-repo-rebuild/reproducible-central/blob/master/doc/stabilize.md) of      968 [npm packages](https://www.npmjs.com/package/..)
 
 See [oss-rebuild usage](https://github.com/google/oss-rebuild#usage) for details on rebuilding or getting [rebuild attestation](https://github.com/google/oss-rebuild/blob/main/docs/builds/Rebuild@v0.1.md)
 
@@ -268,7 +268,7 @@ See [oss-rebuild usage](https://github.com/google/oss-rebuild#usage) for details
 | [eslint-plugin-jsonc](https://www.npmjs.com/package/eslint-plugin-jsonc) | 1 :recycle: | 2.20.1 | [![latest](https://img.shields.io/npm/v/eslint-plugin-jsonc)](https://www.npmjs.com/package/eslint-plugin-jsonc) |
 | [eslint-plugin-markdown](https://www.npmjs.com/package/eslint-plugin-markdown) | 2 :recycle: | 3.0.1 | [![latest](https://img.shields.io/npm/v/eslint-plugin-markdown)](https://www.npmjs.com/package/eslint-plugin-markdown) |
 | [eslint-plugin-prefer-arrow](https://www.npmjs.com/package/eslint-plugin-prefer-arrow) | 1 :recycle: | 1.2.3 | [![latest](https://img.shields.io/npm/v/eslint-plugin-prefer-arrow)](https://www.npmjs.com/package/eslint-plugin-prefer-arrow) |
-| [eslint-plugin-prettier](https://www.npmjs.com/package/eslint-plugin-prettier) | 3 :recycle: | 4.2.1 | [![latest](https://img.shields.io/npm/v/eslint-plugin-prettier)](https://www.npmjs.com/package/eslint-plugin-prettier) |
+| [eslint-plugin-prettier](https://www.npmjs.com/package/eslint-plugin-prettier) | 5 :recycle: | 4.2.5 | [![latest](https://img.shields.io/npm/v/eslint-plugin-prettier)](https://www.npmjs.com/package/eslint-plugin-prettier) |
 | [eslint-plugin-promise](https://www.npmjs.com/package/eslint-plugin-promise) | 4 :recycle: | 5.2.0 | [![latest](https://img.shields.io/npm/v/eslint-plugin-promise)](https://www.npmjs.com/package/eslint-plugin-promise) |
 | [eslint-plugin-react](https://www.npmjs.com/package/eslint-plugin-react) | 3 :recycle: | 7.4.0 | [![latest](https://img.shields.io/npm/v/eslint-plugin-react)](https://www.npmjs.com/package/eslint-plugin-react) |
 | [eslint-plugin-standard](https://www.npmjs.com/package/eslint-plugin-standard) | 2 :recycle: | 4.1.0 | [![latest](https://img.shields.io/npm/v/eslint-plugin-standard)](https://www.npmjs.com/package/eslint-plugin-standard) |

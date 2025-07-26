@@ -1,7 +1,7 @@
 OSS Rebuild Results for pypi
 ========
 
-4980 [:recycle: releases](https://github.com/jvm-repo-rebuild/reproducible-central/blob/master/doc/stabilize.md) of      608 [pypi packages](https://pypi.org/project/..)
+4981 [:recycle: releases](https://github.com/jvm-repo-rebuild/reproducible-central/blob/master/doc/stabilize.md) of      608 [pypi packages](https://pypi.org/project/..)
 
 See [oss-rebuild usage](https://github.com/google/oss-rebuild#usage) for details on rebuilding or getting [rebuild attestation](https://github.com/google/oss-rebuild/blob/main/docs/builds/Rebuild@v0.1.md)
 
@@ -302,7 +302,7 @@ See [oss-rebuild usage](https://github.com/google/oss-rebuild#usage) for details
 | [jsonpointer](https://pypi.org/project/jsonpointer) | 2 :recycle: | 2.4 | [![latest](https://img.shields.io/pypi/v/jsonpointer)](https://pypi.org/project/jsonpointer) |
 | [jsonschema-path](https://pypi.org/project/jsonschema-path) | 4 :recycle: | 0.4.0b1 | [![latest](https://img.shields.io/pypi/v/jsonschema-path)](https://pypi.org/project/jsonschema-path) |
 | [jsonschema-specifications](https://pypi.org/project/jsonschema-specifications) | 11 :recycle: | 2025.4.1 | [![latest](https://img.shields.io/pypi/v/jsonschema-specifications)](https://pypi.org/project/jsonschema-specifications) |
-| [jsonschema](https://pypi.org/project/jsonschema) | 67 :recycle: | 4.9.1 | [![latest](https://img.shields.io/pypi/v/jsonschema)](https://pypi.org/project/jsonschema) |
+| [jsonschema](https://pypi.org/project/jsonschema) | 68 :recycle: | 4.9.1 | [![latest](https://img.shields.io/pypi/v/jsonschema)](https://pypi.org/project/jsonschema) |
 | [junitparser](https://pypi.org/project/junitparser) | 5 :recycle: | 4.0.2 | [![latest](https://img.shields.io/pypi/v/junitparser)](https://pypi.org/project/junitparser) |
 | [jupyter-core](https://pypi.org/project/jupyter-core) | 2 :recycle: | 5.8.1 | [![latest](https://img.shields.io/pypi/v/jupyter-core)](https://pypi.org/project/jupyter-core) |
 | [jupyter-events](https://pypi.org/project/jupyter-events) | 1 :recycle: | 0.6.3 | [![latest](https://img.shields.io/pypi/v/jupyter-events)](https://pypi.org/project/jupyter-events) |
