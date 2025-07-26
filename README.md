@@ -1,7 +1,17 @@
 OSS Rebuild Reports
 ===================
 
-Reports on [OSS Rebuild![OSS Rebuild](https://raw.githubusercontent.com/google/oss-rebuild/main/site/logo-light.svg)](https://github.com/google/oss-rebuild) results, like the ones from [Reproducible Central](../reproducible-central/)
+Reports on [OSS Rebuild](https://github.com/google/oss-rebuild)
+
+<div align="center"><a href="https://github.com/google/oss-rebuild"">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/google/oss-rebuild/main/site/logo-light.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/google/oss-rebuild/main/site/logo-dark.svg">
+    <img alt="OSS Rebuild logo" src="https://raw.githubusercontent.com/google/oss-rebuild/main/site/logo-dark.svg" height="110" width="230">
+  </picture>
+</a></div>
+
+results, like the ones from [Reproducible Central](../reproducible-central/)
 
 --------------------------------------------------------------------------------------------------------------------------
 
