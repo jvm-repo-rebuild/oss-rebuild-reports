@@ -2,9 +2,9 @@
 
 [ -d data ] || mkdir data
 [ -f data/summary.md ] && rm -f data/summary.md
-echo "npm https://www.npmjs.com/package/ JavaScript/TypeScript
-pypi https://pypi.org/project/ Python
-crates.io https://crates.io/crates/ Rust" | while read p url lang
+echo "npm npm npm https://www.npmjs.com/package/ JavaScript/TypeScript
+pypi PyPI pypi https://pypi.org/project/ Python
+cratesio crates.io crates https://crates.io/crates/ Rust" | while read p pName pShields url lang # p = oss-rebuild id, pName = display name, pShields = for shields.io badge
 do
   if [ ! -d data/$p ]
   then
@@ -24,12 +24,12 @@ do
   echo "packages: $packageCount $url"
   cat data/$p/*.txt | cut -d ' ' -f 1 | uniq -c | awk '{$1=$1};1' > data/$p.txt
 
-  echo "- $releaseCount :recycle: releases of $packageCount [$p packages]($p.md) ($lang)" >> data/summary.md
+  echo "- $releaseCount :recycle: releases of $packageCount [$pName packages]($p.md) ($lang)" >> data/summary.md
 
-  echo "OSS Rebuild Results for $p
+  echo "OSS Rebuild Results for $pName
 ========
 
-$releaseCount [:recycle: releases](https://github.com/jvm-repo-rebuild/reproducible-central/blob/master/doc/stabilize.md) of $packageCount [$p packages]($url..)
+$releaseCount [:recycle: releases](https://github.com/jvm-repo-rebuild/reproducible-central/blob/master/doc/stabilize.md) of $packageCount [$pName packages]($url..)
 
 See [oss-rebuild usage](https://github.com/google/oss-rebuild#usage) for details on rebuilding or getting [rebuild attestation](https://github.com/google/oss-rebuild/blob/main/docs/builds/Rebuild@v0.1.md)
 
@@ -37,7 +37,7 @@ See [oss-rebuild usage](https://github.com/google/oss-rebuild#usage) for details
 | ------- | -------- | ------------------ | ------ |
 $(while read n a
 do
-  echo "| [$a]($url$a) | [$n :recycle:](https://console.cloud.google.com/storage/browser/google-rebuild-attestations/$p/$a) | $(grep -h "^$a " data/$p/*.txt | tail -1 | cut -d ' ' -f 2) | [![latest](https://img.shields.io/$p/v/$a)]($url$a) |"
+  echo "| [$a]($url$a) | [$n :recycle:](https://console.cloud.google.com/storage/browser/google-rebuild-attestations/$p/$a) | $(grep -h "^$a " data/$p/*.txt | tail -1 | cut -d ' ' -f 2) | [![latest](https://img.shields.io/$pShields/v/$a)]($url$a) |"
 done < data/$p.txt)" > $p.md
 done
 

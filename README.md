@@ -18,8 +18,8 @@ results, like the ones from [Reproducible Central](../reproducible-central/)
 [OSS Rebuild](https://github.com/google/oss-rebuild) rebuilt [semantically equivalent :recycle:](https://github.com/jvm-repo-rebuild/reproducible-central/blob/master/doc/stabilize.md) packages:
 <!-- BEGIN GENERATED SUMMARY -->
 - 1996 :recycle: releases of 1074 [npm packages](npm.md) (JavaScript/TypeScript)
-- 4983 :recycle: releases of 608 [pypi packages](pypi.md) (Python)
-- 0 :recycle: releases of 0 [crates.io packages](crates.io.md) (Rust)
+- 4983 :recycle: releases of 608 [PyPI packages](pypi.md) (Python)
+- 2378 :recycle: releases of 799 [crates.io packages](cratesio.md) (Rust)
 <!-- END GENERATED SUMMARY -->
 
 See also <a href="https://console.cloud.google.com/storage/browser/google-rebuild-attestations">raw attestations data</a>.
