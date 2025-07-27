@@ -21,3 +21,5 @@ results, like the ones from [Reproducible Central](../reproducible-central/)
 - 4983 :recycle: releases of 608 [pypi packages](pypi.md) (Python)
 - 0 :recycle: releases of 0 [crates.io packages](crates.io.md) (Rust)
 <!-- END GENERATED SUMMARY -->
+
+See also <a href="https://console.cloud.google.com/storage/browser/google-rebuild-attestations">raw attestations data</a>.

@@ -37,7 +37,7 @@ See [oss-rebuild usage](https://github.com/google/oss-rebuild#usage) for details
 | ------- | -------- | ------------------ | ------ |
 $(while read n a
 do
-  echo "| [$a]($url$a) | $n :recycle: | $(grep -h "^$a " data/$p/*.txt | tail -1 | cut -d ' ' -f 2) | [![latest](https://img.shields.io/$p/v/$a)]($url$a) |"
+  echo "| [$a]($url$a) | [$n :recycle:](https://console.cloud.google.com/storage/browser/google-rebuild-attestations/$p/$a) | $(grep -h "^$a " data/$p/*.txt | tail -1 | cut -d ' ' -f 2) | [![latest](https://img.shields.io/$p/v/$a)]($url$a) |"
 done < data/$p.txt)" > $p.md
 done
 
