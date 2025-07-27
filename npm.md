@@ -1,7 +1,7 @@
 OSS Rebuild Results for npm
 ========
 
-1994 [:recycle: releases](https://github.com/jvm-repo-rebuild/reproducible-central/blob/master/doc/stabilize.md) of 1073 [npm packages](https://www.npmjs.com/package/..)
+1996 [:recycle: releases](https://github.com/jvm-repo-rebuild/reproducible-central/blob/master/doc/stabilize.md) of 1074 [npm packages](https://www.npmjs.com/package/..)
 
 See [oss-rebuild usage](https://github.com/google/oss-rebuild#usage) for details on rebuilding or getting [rebuild attestation](https://github.com/google/oss-rebuild/blob/main/docs/builds/Rebuild@v0.1.md)
 
@@ -194,6 +194,7 @@ See [oss-rebuild usage](https://github.com/google/oss-rebuild#usage) for details
 | [buffer-from](https://www.npmjs.com/package/buffer-from) | 1 :recycle: | 1.1.2 | [![latest](https://img.shields.io/npm/v/buffer-from)](https://www.npmjs.com/package/buffer-from) |
 | [buffer](https://www.npmjs.com/package/buffer) | 3 :recycle: | 6.0.3 | [![latest](https://img.shields.io/npm/v/buffer)](https://www.npmjs.com/package/buffer) |
 | [builtin-modules](https://www.npmjs.com/package/builtin-modules) | 2 :recycle: | 3.3.0 | [![latest](https://img.shields.io/npm/v/builtin-modules)](https://www.npmjs.com/package/builtin-modules) |
+| [bullmq](https://www.npmjs.com/package/bullmq) | 1 :recycle: | 4.18.3 | [![latest](https://img.shields.io/npm/v/bullmq)](https://www.npmjs.com/package/bullmq) |
 | [bulma](https://www.npmjs.com/package/bulma) | 1 :recycle: | 1.0.4 | [![latest](https://img.shields.io/npm/v/bulma)](https://www.npmjs.com/package/bulma) |
 | [bunyan](https://www.npmjs.com/package/bunyan) | 2 :recycle: | 1.8.15 | [![latest](https://img.shields.io/npm/v/bunyan)](https://www.npmjs.com/package/bunyan) |
 | [bytes](https://www.npmjs.com/package/bytes) | 2 :recycle: | 3.1.2 | [![latest](https://img.shields.io/npm/v/bytes)](https://www.npmjs.com/package/bytes) |
@@ -551,7 +552,7 @@ See [oss-rebuild usage](https://github.com/google/oss-rebuild#usage) for details
 | [is-valid-path](https://www.npmjs.com/package/is-valid-path) | 1 :recycle: | 0.1.1 | [![latest](https://img.shields.io/npm/v/is-valid-path)](https://www.npmjs.com/package/is-valid-path) |
 | [is-windows](https://www.npmjs.com/package/is-windows) | 1 :recycle: | 1.0.2 | [![latest](https://img.shields.io/npm/v/is-windows)](https://www.npmjs.com/package/is-windows) |
 | [is-wsl](https://www.npmjs.com/package/is-wsl) | 2 :recycle: | 2.2.0 | [![latest](https://img.shields.io/npm/v/is-wsl)](https://www.npmjs.com/package/is-wsl) |
-| [is](https://www.npmjs.com/package/is) | 1 :recycle: | 3.3.0 | [![latest](https://img.shields.io/npm/v/is)](https://www.npmjs.com/package/is) |
+| [is](https://www.npmjs.com/package/is) | 2 :recycle: | 3.3.2 | [![latest](https://img.shields.io/npm/v/is)](https://www.npmjs.com/package/is) |
 | [isarray](https://www.npmjs.com/package/isarray) | 2 :recycle: | 2.0.5 | [![latest](https://img.shields.io/npm/v/isarray)](https://www.npmjs.com/package/isarray) |
 | [isexe](https://www.npmjs.com/package/isexe) | 1 :recycle: | 2.0.0 | [![latest](https://img.shields.io/npm/v/isexe)](https://www.npmjs.com/package/isexe) |
 | [isobject](https://www.npmjs.com/package/isobject) | 1 :recycle: | 3.0.1 | [![latest](https://img.shields.io/npm/v/isobject)](https://www.npmjs.com/package/isobject) |

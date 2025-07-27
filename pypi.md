@@ -1,7 +1,7 @@
 OSS Rebuild Results for pypi
 ========
 
-4982 [:recycle: releases](https://github.com/jvm-repo-rebuild/reproducible-central/blob/master/doc/stabilize.md) of 608 [pypi packages](https://pypi.org/project/..)
+4983 [:recycle: releases](https://github.com/jvm-repo-rebuild/reproducible-central/blob/master/doc/stabilize.md) of 608 [pypi packages](https://pypi.org/project/..)
 
 See [oss-rebuild usage](https://github.com/google/oss-rebuild#usage) for details on rebuilding or getting [rebuild attestation](https://github.com/google/oss-rebuild/blob/main/docs/builds/Rebuild@v0.1.md)
 
@@ -385,7 +385,7 @@ See [oss-rebuild usage](https://github.com/google/oss-rebuild#usage) for details
 | [pbr](https://pypi.org/project/pbr) | 1 :recycle: | 5.11.1 | [![latest](https://img.shields.io/pypi/v/pbr)](https://pypi.org/project/pbr) |
 | [pefile](https://pypi.org/project/pefile) | 1 :recycle: | 2023.2.7 | [![latest](https://img.shields.io/pypi/v/pefile)](https://pypi.org/project/pefile) |
 | [pep8-naming](https://pypi.org/project/pep8-naming) | 4 :recycle: | 0.15.1 | [![latest](https://img.shields.io/pypi/v/pep8-naming)](https://pypi.org/project/pep8-naming) |
-| [pg8000](https://pypi.org/project/pg8000) | 3 :recycle: | 1.30.4 | [![latest](https://img.shields.io/pypi/v/pg8000)](https://pypi.org/project/pg8000) |
+| [pg8000](https://pypi.org/project/pg8000) | 4 :recycle: | 1.31.3 | [![latest](https://img.shields.io/pypi/v/pg8000)](https://pypi.org/project/pg8000) |
 | [pickleshare](https://pypi.org/project/pickleshare) | 2 :recycle: | 0.7.5 | [![latest](https://img.shields.io/pypi/v/pickleshare)](https://pypi.org/project/pickleshare) |
 | [pip-tools](https://pypi.org/project/pip-tools) | 2 :recycle: | 7.3.0 | [![latest](https://img.shields.io/pypi/v/pip-tools)](https://pypi.org/project/pip-tools) |
 | [pip](https://pypi.org/project/pip) | 2 :recycle: | 23.3 | [![latest](https://img.shields.io/pypi/v/pip)](https://pypi.org/project/pip) |
