@@ -3,7 +3,7 @@ OSS Rebuild Results for npm
 
 1996 [:recycle: releases](https://github.com/jvm-repo-rebuild/reproducible-central/blob/master/doc/stabilize.md) of 1074 [npm packages](https://www.npmjs.com/package/..)
 
-See [oss-rebuild usage](https://github.com/google/oss-rebuild#usage) for details on rebuilding or getting [rebuild attestation](https://github.com/google/oss-rebuild/blob/main/docs/builds/Rebuild@v0.1.md)
+See [Attestation Storage](https://docs.oss-rebuild.dev/storage.html) for details on attestations.
 
 | package | releases | latest oss-rebuilt | latest |
 | ------- | -------- | ------------------ | ------ |
