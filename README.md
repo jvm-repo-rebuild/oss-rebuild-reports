@@ -1,9 +1,9 @@
 OSS Rebuild Reports
 ===================
 
-Reports on [OSS Rebuild](https://docs.oss-rebuild.dev/)
+Reports on [OSS Rebuild](https://oss-rebuild.dev/)
 
-<div align="center"><a href="https://docs.oss-rebuild.dev/"">
+<div align="center"><a href="https://oss-rebuild.dev/"">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/google/oss-rebuild/main/site/logo-light.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/google/oss-rebuild/main/site/logo-dark.svg">
@@ -15,7 +15,7 @@ results, like the ones from [Reproducible Central](../reproducible-central/)
 
 --------------------------------------------------------------------------------------------------------------------------
 
-[OSS Rebuild](https://docs.oss-rebuild.dev/) rebuilt [semantically equivalent :recycle:](https://github.com/jvm-repo-rebuild/reproducible-central/blob/master/doc/stabilize.md) packages:
+[OSS Rebuild](https://oss-rebuild.dev/) rebuilt [semantically equivalent :recycle:](https://github.com/jvm-repo-rebuild/reproducible-central/blob/master/doc/stabilize.md) packages:
 <!-- BEGIN GENERATED SUMMARY -->
 - 1996 :recycle: releases of 1074 [npm packages](npm.md) (JavaScript/TypeScript)
 - 4989 :recycle: releases of 608 [PyPI packages](pypi.md) (Python)
