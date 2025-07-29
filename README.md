@@ -11,7 +11,7 @@ Reports on [OSS Rebuild](https://oss-rebuild.dev/)
   </picture>
 </a></div>
 
-results, like the ones from [Reproducible Central](../reproducible-central/)
+results, like the ones from [Reproducible Central](https://github.com/jvm-repo-rebuild/reproducible-central/)
 
 --------------------------------------------------------------------------------------------------------------------------
 
