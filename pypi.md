@@ -1,7 +1,7 @@
 OSS Rebuild Results for PyPI
 ========
 
-5518 [:recycle: releases](https://github.com/jvm-repo-rebuild/reproducible-central/blob/master/doc/stabilize.md) of 627 [PyPI packages](https://pypi.org/project/..)
+5519 [:recycle: releases](https://github.com/jvm-repo-rebuild/reproducible-central/blob/master/doc/stabilize.md) of 628 [PyPI packages](https://pypi.org/project/..)
 
 See [Attestation Storage](https://docs.oss-rebuild.dev/storage.html) for details on attestations.
 
@@ -18,6 +18,7 @@ See [Attestation Storage](https://docs.oss-rebuild.dev/storage.html) for details
 | [aiofiles](https://pypi.org/project/aiofiles) | [2 :recycle:](https://console.cloud.google.com/storage/browser/google-rebuild-attestations/pypi/aiofiles) | [25.1.0](https://storage.googleapis.com/google-rebuild-attestations/pypi/aiofiles/25.1.0/aiofiles-25.1.0-py3-none-any.whl/rebuild.intoto.jsonl) | [![latest](https://img.shields.io/pypi/v/aiofiles)](https://pypi.org/project/aiofiles) |
 | [aiohttp-retry](https://pypi.org/project/aiohttp-retry) | [2 :recycle:](https://console.cloud.google.com/storage/browser/google-rebuild-attestations/pypi/aiohttp-retry) | [2.8.3](https://storage.googleapis.com/google-rebuild-attestations/pypi/aiohttp-retry/2.8.3/aiohttp_retry-2.8.3-py3-none-any.whl/rebuild.intoto.jsonl) | [![latest](https://img.shields.io/pypi/v/aiohttp-retry)](https://pypi.org/project/aiohttp-retry) |
 | [aiohttp](https://pypi.org/project/aiohttp) | [1 :recycle:](https://console.cloud.google.com/storage/browser/google-rebuild-attestations/pypi/aiohttp) | [3.6.0a0](https://storage.googleapis.com/google-rebuild-attestations/pypi/aiohttp/3.6.0a0/aiohttp-3.6.0a0-py3-none-any.whl/rebuild.intoto.jsonl) | [![latest](https://img.shields.io/pypi/v/aiohttp)](https://pypi.org/project/aiohttp) |
+| [aioitertools](https://pypi.org/project/aioitertools) | [1 :recycle:](https://console.cloud.google.com/storage/browser/google-rebuild-attestations/pypi/aioitertools) | [0.13.0](https://storage.googleapis.com/google-rebuild-attestations/pypi/aioitertools/0.13.0/aioitertools-0.13.0-py3-none-any.whl/rebuild.intoto.jsonl) | [![latest](https://img.shields.io/pypi/v/aioitertools)](https://pypi.org/project/aioitertools) |
 | [aiosignal](https://pypi.org/project/aiosignal) | [10 :recycle:](https://console.cloud.google.com/storage/browser/google-rebuild-attestations/pypi/aiosignal) | [1.4.0](https://storage.googleapis.com/google-rebuild-attestations/pypi/aiosignal/1.4.0/aiosignal-1.4.0-py3-none-any.whl/rebuild.intoto.jsonl) | [![latest](https://img.shields.io/pypi/v/aiosignal)](https://pypi.org/project/aiosignal) |
 | [alembic](https://pypi.org/project/alembic) | [8 :recycle:](https://console.cloud.google.com/storage/browser/google-rebuild-attestations/pypi/alembic) | [1.17.1](https://storage.googleapis.com/google-rebuild-attestations/pypi/alembic/1.17.1/alembic-1.17.1-py3-none-any.whl/rebuild.intoto.jsonl) | [![latest](https://img.shields.io/pypi/v/alembic)](https://pypi.org/project/alembic) |
 | [altair](https://pypi.org/project/altair) | [2 :recycle:](https://console.cloud.google.com/storage/browser/google-rebuild-attestations/pypi/altair) | [5.2.0](https://storage.googleapis.com/google-rebuild-attestations/pypi/altair/5.2.0/altair-5.2.0-py3-none-any.whl/rebuild.intoto.jsonl) | [![latest](https://img.shields.io/pypi/v/altair)](https://pypi.org/project/altair) |
