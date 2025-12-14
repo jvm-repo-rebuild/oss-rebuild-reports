@@ -1,7 +1,7 @@
 OSS Rebuild Results for PyPI
 ========
 
-5660 [:recycle: releases](https://github.com/jvm-repo-rebuild/reproducible-central/blob/master/doc/stabilize.md) of 647 [PyPI packages](https://pypi.org/project/..)
+5661 [:recycle: releases](https://github.com/jvm-repo-rebuild/reproducible-central/blob/master/doc/stabilize.md) of 648 [PyPI packages](https://pypi.org/project/..)
 
 See [Attestation Storage](https://docs.oss-rebuild.dev/storage.html) for details on attestations.
 
@@ -20,6 +20,7 @@ See [Attestation Storage](https://docs.oss-rebuild.dev/storage.html) for details
 | [aiohttp](https://pypi.org/project/aiohttp) | [1 :recycle:](https://console.cloud.google.com/storage/browser/google-rebuild-attestations/pypi/aiohttp) | [3.6.0a0](https://storage.googleapis.com/google-rebuild-attestations/pypi/aiohttp/3.6.0a0/aiohttp-3.6.0a0-py3-none-any.whl/rebuild.intoto.jsonl) | [![latest](https://img.shields.io/pypi/v/aiohttp)](https://pypi.org/project/aiohttp) |
 | [aioitertools](https://pypi.org/project/aioitertools) | [1 :recycle:](https://console.cloud.google.com/storage/browser/google-rebuild-attestations/pypi/aioitertools) | [0.13.0](https://storage.googleapis.com/google-rebuild-attestations/pypi/aioitertools/0.13.0/aioitertools-0.13.0-py3-none-any.whl/rebuild.intoto.jsonl) | [![latest](https://img.shields.io/pypi/v/aioitertools)](https://pypi.org/project/aioitertools) |
 | [aiosignal](https://pypi.org/project/aiosignal) | [10 :recycle:](https://console.cloud.google.com/storage/browser/google-rebuild-attestations/pypi/aiosignal) | [1.4.0](https://storage.googleapis.com/google-rebuild-attestations/pypi/aiosignal/1.4.0/aiosignal-1.4.0-py3-none-any.whl/rebuild.intoto.jsonl) | [![latest](https://img.shields.io/pypi/v/aiosignal)](https://pypi.org/project/aiosignal) |
+| [aiosqlite](https://pypi.org/project/aiosqlite) | [1 :recycle:](https://console.cloud.google.com/storage/browser/google-rebuild-attestations/pypi/aiosqlite) | [0.22.0](https://storage.googleapis.com/google-rebuild-attestations/pypi/aiosqlite/0.22.0/aiosqlite-0.22.0-py3-none-any.whl/rebuild.intoto.jsonl) | [![latest](https://img.shields.io/pypi/v/aiosqlite)](https://pypi.org/project/aiosqlite) |
 | [alembic](https://pypi.org/project/alembic) | [9 :recycle:](https://console.cloud.google.com/storage/browser/google-rebuild-attestations/pypi/alembic) | [1.17.2](https://storage.googleapis.com/google-rebuild-attestations/pypi/alembic/1.17.2/alembic-1.17.2-py3-none-any.whl/rebuild.intoto.jsonl) | [![latest](https://img.shields.io/pypi/v/alembic)](https://pypi.org/project/alembic) |
 | [altair](https://pypi.org/project/altair) | [2 :recycle:](https://console.cloud.google.com/storage/browser/google-rebuild-attestations/pypi/altair) | [5.2.0](https://storage.googleapis.com/google-rebuild-attestations/pypi/altair/5.2.0/altair-5.2.0-py3-none-any.whl/rebuild.intoto.jsonl) | [![latest](https://img.shields.io/pypi/v/altair)](https://pypi.org/project/altair) |
 | [altgraph](https://pypi.org/project/altgraph) | [1 :recycle:](https://console.cloud.google.com/storage/browser/google-rebuild-attestations/pypi/altgraph) | [0.17.5](https://storage.googleapis.com/google-rebuild-attestations/pypi/altgraph/0.17.5/altgraph-0.17.5-py2.py3-none-any.whl/rebuild.intoto.jsonl) | [![latest](https://img.shields.io/pypi/v/altgraph)](https://pypi.org/project/altgraph) |
