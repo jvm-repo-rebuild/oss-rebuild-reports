@@ -1,7 +1,7 @@
 OSS Rebuild Results for npm
 ========
 
-4168 [:recycle: releases](https://github.com/jvm-repo-rebuild/reproducible-central/blob/master/doc/stabilize.md) of 1617 [npm packages](https://www.npmjs.com/package/..)
+4169 [:recycle: releases](https://github.com/jvm-repo-rebuild/reproducible-central/blob/master/doc/stabilize.md) of 1617 [npm packages](https://www.npmjs.com/package/..)
 
 See [Attestation Storage](https://docs.oss-rebuild.dev/storage.html) for details on attestations.
 
@@ -1027,7 +1027,7 @@ See [Attestation Storage](https://docs.oss-rebuild.dev/storage.html) for details
 | [mute-stream](https://www.npmjs.com/package/mute-stream) | [1 :recycle:](https://console.cloud.google.com/storage/browser/google-rebuild-attestations/npm/mute-stream) | [3.0.0](https://storage.googleapis.com/google-rebuild-attestations/npm/mute-stream/3.0.0/mute-stream-3.0.0.tgz/rebuild.intoto.jsonl) | [![latest](https://img.shields.io/npm/v/mute-stream)](https://www.npmjs.com/package/mute-stream) |
 | [mv](https://www.npmjs.com/package/mv) | [1 :recycle:](https://console.cloud.google.com/storage/browser/google-rebuild-attestations/npm/mv) | [2.1.1](https://storage.googleapis.com/google-rebuild-attestations/npm/mv/2.1.1/mv-2.1.1.tgz/rebuild.intoto.jsonl) | [![latest](https://img.shields.io/npm/v/mv)](https://www.npmjs.com/package/mv) |
 | [mysql](https://www.npmjs.com/package/mysql) | [1 :recycle:](https://console.cloud.google.com/storage/browser/google-rebuild-attestations/npm/mysql) | [2.18.1](https://storage.googleapis.com/google-rebuild-attestations/npm/mysql/2.18.1/mysql-2.18.1.tgz/rebuild.intoto.jsonl) | [![latest](https://img.shields.io/npm/v/mysql)](https://www.npmjs.com/package/mysql) |
-| [mysql2](https://www.npmjs.com/package/mysql2) | [79 :recycle:](https://console.cloud.google.com/storage/browser/google-rebuild-attestations/npm/mysql2) | [3.9.7](https://storage.googleapis.com/google-rebuild-attestations/npm/mysql2/3.9.7/mysql2-3.9.7.tgz/rebuild.intoto.jsonl) | [![latest](https://img.shields.io/npm/v/mysql2)](https://www.npmjs.com/package/mysql2) |
+| [mysql2](https://www.npmjs.com/package/mysql2) | [80 :recycle:](https://console.cloud.google.com/storage/browser/google-rebuild-attestations/npm/mysql2) | [3.9.7](https://storage.googleapis.com/google-rebuild-attestations/npm/mysql2/3.9.7/mysql2-3.9.7.tgz/rebuild.intoto.jsonl) | [![latest](https://img.shields.io/npm/v/mysql2)](https://www.npmjs.com/package/mysql2) |
 | [mz](https://www.npmjs.com/package/mz) | [1 :recycle:](https://console.cloud.google.com/storage/browser/google-rebuild-attestations/npm/mz) | [2.7.0](https://storage.googleapis.com/google-rebuild-attestations/npm/mz/2.7.0/mz-2.7.0.tgz/rebuild.intoto.jsonl) | [![latest](https://img.shields.io/npm/v/mz)](https://www.npmjs.com/package/mz) |
 | [n3](https://www.npmjs.com/package/n3) | [1 :recycle:](https://console.cloud.google.com/storage/browser/google-rebuild-attestations/npm/n3) | [1.17.3](https://storage.googleapis.com/google-rebuild-attestations/npm/n3/1.17.3/n3-1.17.3.tgz/rebuild.intoto.jsonl) | [![latest](https://img.shields.io/npm/v/n3)](https://www.npmjs.com/package/n3) |
 | [nan](https://www.npmjs.com/package/nan) | [8 :recycle:](https://console.cloud.google.com/storage/browser/google-rebuild-attestations/npm/nan) | [2.26.2](https://storage.googleapis.com/google-rebuild-attestations/npm/nan/2.26.2/nan-2.26.2.tgz/rebuild.intoto.jsonl) | [![latest](https://img.shields.io/npm/v/nan)](https://www.npmjs.com/package/nan) |
