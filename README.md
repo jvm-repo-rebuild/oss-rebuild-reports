@@ -17,8 +17,8 @@ results, like the ones from [Reproducible Central](https://github.com/jvm-repo-r
 
 [OSS Rebuild](https://oss-rebuild.dev/) rebuilt [semantically equivalent :recycle:](https://github.com/jvm-repo-rebuild/reproducible-central/blob/master/doc/stabilize.md) packages:
 <!-- BEGIN GENERATED SUMMARY -->
-- 4668 :recycle: releases of 1662 [npm packages](npm.md) (JavaScript/TypeScript)
-- 17326 :recycle: releases of 4663 [PyPI packages](pypi.md) (Python)
+- 4670 :recycle: releases of 1662 [npm packages](npm.md) (JavaScript/TypeScript)
+- 17330 :recycle: releases of 4663 [PyPI packages](pypi.md) (Python)
 - 2378 :recycle: releases of 799 [crates.io packages](cratesio.md) (Rust)
 <!-- END GENERATED SUMMARY -->
 
