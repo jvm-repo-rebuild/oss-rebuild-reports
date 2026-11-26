@@ -17,9 +17,9 @@ results, like the ones from [Reproducible Central](https://github.com/jvm-repo-r
 
 [OSS Rebuild](https://oss-rebuild.dev/) rebuilt [semantically equivalent :recycle:](https://github.com/jvm-repo-rebuild/reproducible-central/blob/master/doc/stabilize.md) packages:
 <!-- BEGIN GENERATED SUMMARY -->
-- 223541 :recycle: releases of 17056 [npm packages](npm.md) (JavaScript/TypeScript)
-- 473003 :recycle: releases of 38385 [PyPI packages](pypi.md) (Python)
-- 214751 :recycle: releases of 22399 [crates.io packages](cratesio.md) (Rust)
+- 223551 :recycle: releases of 17056 [npm packages](npm.md) (JavaScript/TypeScript)
+- 590056 :recycle: releases of 38386 [PyPI packages](pypi.md) (Python)
+- 264615 :recycle: releases of 24457 [crates.io packages](cratesio.md) (Rust)
 <!-- END GENERATED SUMMARY -->
 
 See also [Attestation Storage](https://docs.oss-rebuild.dev/storage.html) directly from the [live bucket](https://console.cloud.google.com/storage/browser/google-rebuild-attestations), to dissect [in-toto attestations](https://github.com/in-toto/attestation/blob/v1.1.0/spec/README.md) that provide [`ArtifactEquivalence`](https://docs.oss-rebuild.dev/builds/ArtifactEquivalence@v0.1) and [`Rebuild`](https://docs.oss-rebuild.dev/builds/Rebuild@v0.1).
